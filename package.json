@@ -1,6 +1,6 @@
 {
   "name": "aws-param-env",
-  "version": "2.2.0",
+  "version": "2.3.0",
   "description": "Module for synchronously loading AWS SSM Parameter Store values into environment variables",
   "main": "lib/index.js",
   "keywords": [
